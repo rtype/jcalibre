@@ -1,2 +1,2 @@
 # jcalibre
-A javascript only client for calibre
+A javascript only client for calibrerrrr
